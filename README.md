@@ -26,7 +26,7 @@ It covers end-to-end user stories including:
 
 ```bash
 https://github.com/DanailZahariev/postman-test.git
-cd github-api-postman
+cd postman-test
 ```
 
 ### 2. Install Dependencies
