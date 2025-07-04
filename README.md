@@ -25,7 +25,7 @@ It covers end-to-end user stories including:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/github-api-postman.git
+https://github.com/DanailZahariev/postman-test.git
 cd github-api-postman
 ```
 
