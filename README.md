@@ -77,7 +77,7 @@ Download the LTS version from [https://nodejs.org/](https://nodejs.org/en/).
 In Git Bash:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/github-api-postman.git
+git clone https://github.com/DanailZahariev/postman-test.git
 cd github-api-postman
 npm install
 cp .env.example .env
